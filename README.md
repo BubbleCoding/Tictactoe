@@ -1,3 +1,3 @@
 # Tictactoe
 
-An undefeated tictactoe pminimax player! Created as part of a python course.
+An undefeated tictactoe minimax player! Created as part of a python course.
